@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>SARE</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Orbitron|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+
+<header>
+<div class="overlay"></div>
+	<h1>
+		SOINFO
+	</h1>
+	<h2>
+		Soluciones Informaticas
+	</h2>
+</header>
+
+<section class="informacion">
+	<h3>
+		Contabilidad General
+	</h3>
+	<div class="underline"></div>
+	<p>
+		Modulo Central del proceso administrativo de la informacion financiera de la institucion basandose en los principios contables generalmente aceptados y las mejores practicas financieras.
+	</p>
+
+	<div class="caracteristicas">
+		<ul>
+			<li>Cierre Operativo Mensual</li>
+			<li class="float-right">Cierre Anual</li>
+			<li class="float-right">Generacion de Dividendos</li>
+		</ul>
+	</div>
+</section>
+
+<section class="productos-financieros">
+	
+</section>
+
+</body>
+</html>
